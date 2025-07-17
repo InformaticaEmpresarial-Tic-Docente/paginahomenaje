@@ -33,6 +33,7 @@ Profundiza en desarrollo web con el curso [Responsive Web Design de FreeCodeCamp
 
 ## 📂 Estructura del Proyecto
 tesla-tribute/
+
 ├── index.html
 
 ├── styles.css
